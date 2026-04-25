@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @KeevinBlair
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Kevin Blair
 
-<!---
-KeevinBlair/KeevinBlair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About me
+Sou QA Automatizador de Testes Pleno, focado em garantir qualidade de software através de testes automatizados.
+
+Atualmente estou migrando minha stack para **JavaScript** e estudando **Playwright** para automação moderna de testes.
+
+---
+
+## 👀 Interests
+- Automação de testes (UI e API)
+- Quality Assurance (QA)
+- Engenharia de qualidade
+
+---
+
+## 🌱 Currently learning
+- JavaScript
+- Playwright
+
+---
+
+## 💞️ Collaboration
+Aberto a projetos de QA, automação de testes e APIs.
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/kevin-blair-313658141/
+- GitHub: https://github.com/KeevinBlair
